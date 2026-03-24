@@ -7,4 +7,4 @@ email: tt02323@uga.edu
 interests: ["Frisbee", "Movies", "Football"]
 headshot: "https://github.com/tommynola82.png"
 ---
-fintech
+fintech interest
